@@ -28,7 +28,7 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ## Installation
   Node.js, NPM, and MongoDB must be installed on your computer. <br />
   <br />Clone the repo: <br />
-      `git clone https://github.com/CFsylvester/book-search.git` <br />
+      `git clone https://github.com/lpnrhowell/Book-Search-Engine` <br />
   <br />Navigate to the root directory and run: <br />
       `npm install` <br />
   <br />To start the server locally, run the following: <br />
