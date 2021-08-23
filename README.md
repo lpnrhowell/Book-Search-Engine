@@ -1,6 +1,6 @@
 # Book Search
 
- <a href="https://sylvester-book-search.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
+ <a href="https://book-search-engine.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/lpnrhowell/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/book-search-engine?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/book-search-engine?color=inactive&style=for-the-badge)
 
 ## Description
 Book Search is a full stack MERN application. Book Search allows a user to search for any related book to the title search input using the Google Books API. Additionally, a user can create an account that provides access to save book functionality and dashboard. If a user logs out the saved books will persist.
@@ -64,14 +64,14 @@ Book Search was refractored from an existing MERN app to utilize GraphQL impleme
   ![Heroku](https://img.shields.io/badge/Server-Heroku-inactive?style=for-the-badge)![MongoDB](https://img.shields.io/badge/Database-MongoDb-inactive?style=for-the-badge)![MongoDB Atlas](https://img.shields.io/badge/Cloud%20Database-MongoDB%20Atlas-inactive?style=for-the-badge) 
   
   ## Questions
-  Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%book-search]%20Source%20Han%20Sans)
+  Please reach out to me at [lpnrhowell@gmail.com](mailto:lpnrhowell@gmail.com)
 
   ## Links
-  - **[Deployed App](https://sylvester-budget-tracker.herokuapp.com/)**
-  - **[GitHub Repo](https://github.com/CFsylvester/book-search)**
-  - **[My Portfolio](clairecodes.dev)**
-  - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
-  - **[GitHub profile](https://github.com/CFsylvester)    ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
+  - **[Deployed App](https://book-search-engine.herokuapp.com/)**
+  - **[GitHub Repo](https://github.com/lpnrhowell/Book-Search-Engine)**
+  - **[My Portfolio](https://github.com/lpnrhowell/react-portfolio)**
+  - **[Connect on LinkedIn](https://www.linkedin.com/in/robert-howell-b28a5a207/)**
+  - **[GitHub profile](https://github.com/lpnrhowell)    ![Github Followers](https://img.shields.io/github/followers/lpnrhowell?style=social)**
 
   ## License 
   This application uses the MIT license.  
